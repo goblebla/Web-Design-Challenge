@@ -1,3 +1,8 @@
+# WEB VISUALIZAITION DASHBOARD
+Please see the link below:
+https://goblebla.github.io/Web-Design-Challenge/index.html
+
+
 # Web Design Homework - Web Visualization Dashboard (Latitude)
 
 ## Background
